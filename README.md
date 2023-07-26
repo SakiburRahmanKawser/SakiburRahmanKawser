@@ -5,7 +5,7 @@
 
 #### Build and operate cyber security programs to protect customers and enterprises. Highly skilled and dedicated System Analyst bringing 6 Months of professional experience seeking a job opportunity that offers growth opportunities to apply leadership,communication, and problem-solving skills combined with in-depth knowledge of analyzing and testing various business systems.
 
-:email: sakiburrahman01796@gmail.com
+:email: sakibur15-12717@diu.edu.bd
 :phone: +8801796615965
 
 ## Skills:computer:
