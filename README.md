@@ -1,7 +1,7 @@
 # Hello:wave: 
 ### I am Sakibur Rahman
 
-![Purple White Marketing Manager Modern Profile LinkedIn Article Cover Image](https://www.canva.com/design/DAHDkiN7Lk0/DBL88OsmR4tB7aaxXHGDbg/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0)
+(https://www.canva.com/design/DAzHDkiN7Lk0/DBL88OsmR4tB7aaxXHGDbg/edit?ui=eyJEIjp7IlEiOnsiQSI6dHJ1ZX19LCJBIjp7fX0)
 
 #### Build and operate cyber security programs to protect customers and enterprises. Highly skilled and dedicated System Analyst bringing 6 Months of professional experience seeking a job opportunity that offers growth opportunities to apply leadership,communication, and problem-solving skills combined with in-depth knowledge of analyzing and testing various business systems.
 
