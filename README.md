@@ -1,7 +1,9 @@
 # Hello:wave: 
 ### I am Sakibur Rahman
 <img width="1584" height="396" alt="Sakib cover photo" src="https://github.com/user-attachments/assets/7d9e85a5-766e-4a4a-aefc-6c8f924c40b5" />
-MY Portfolio : file:///D:/iPortfolio-1.0.0%20(1)/iPortfolio-1.0.0/index.html
+
+### 🌐 My Portfolio
+[View My Portfolio](https://sakiburrahmanportfolio.com)
 
 Analytical Business Development professional with 2 years of experience as a Junior Business Developer. Skilled in requirement gathering, process mapping, and project management from concept to completion. Proven ability to build and maintain strong client relationships, drive sales, and close deals. Expertise in business development, marketing, and public relations, with an entrepreneurial mindset and solution-oriented approach. A self-directed, consultative team player with a strong focus on achieving high personal and professional goals.
 
