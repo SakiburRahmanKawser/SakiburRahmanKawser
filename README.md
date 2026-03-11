@@ -2,6 +2,7 @@
 ### I am Sakibur Rahman
 
 [![Profile Photo]("C:\Users\DCL\Desktop\Cover Letter\Sakib Cover PHOTO.jpg")]
+MY Portfolio: http://127.0.0.1:5500/index.html
 
 Analytical Business Development professional with 2 years of experience as a Junior Business Developer. Skilled in requirement gathering, process mapping, and project management from concept to completion. Proven ability to build and maintain strong client relationships, drive sales, and close deals. Expertise in business development, marketing, and public relations, with an entrepreneurial mindset and solution-oriented approach. A self-directed, consultative team player with a strong focus on achieving high personal and professional goals.
 
@@ -27,6 +28,7 @@ Proven Business Development Developer  with experience delivering + portfolios, 
 •	Worked with marketing department on branding strategies.
 
  ## Jr. Business Development
+ 
 Soft Skills:
 
 •	Leadership and team management, crucial for guiding and motivating your team towards achieving collective business objectives.
@@ -69,11 +71,11 @@ Responsible for global delivery of rapidly growing managed business, including p
 •	Data Analysis & Business Intelligence
 •	Proposal Writing & Digital Marketing
 
-International Certifications
+## International Certifications
 
 Kaspersky and Sophos Certifications
 
-Education 
+## Education 
  
 Bsc in Computer Science & Engineering (CSE) 
 Daffodil International University 
