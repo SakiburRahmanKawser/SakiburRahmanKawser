@@ -1,11 +1,11 @@
 # Hello:wave: 
 ### I am Sakibur Rahman
 
-[![Profile Photo]("C:\Users\DCL\Desktop\Cover Letter\Sakib Cover PHOTO.jpg")](https://yourwebsite.com)
+[![Profile Photo]("C:\Users\DCL\Desktop\Cover Letter\Sakib Cover PHOTO.jpg")]
 
 Analytical Business Development professional with 2 years of experience as a Junior Business Developer. Skilled in requirement gathering, process mapping, and project management from concept to completion. Proven ability to build and maintain strong client relationships, drive sales, and close deals. Expertise in business development, marketing, and public relations, with an entrepreneurial mindset and solution-oriented approach. A self-directed, consultative team player with a strong focus on achieving high personal and professional goals.
 
-WORK EXPERIENCE
+## WORK EXPERIENCE
 
 Proven Business Development Developer  with experience delivering + portfolios, building and leading customer-facing business services, and corporate Goinnovior Limited  & 3s Sourcing.
 
@@ -17,21 +17,26 @@ Proven Business Development Developer  with experience delivering + portfolios, 
 •	Conducted distributor sales meetings to share local and national updates, introduce new products, provide sales and volumes updates to ensure proper execution at all store levels.
 •	Developed functional specification documents to guide project design, development, and implementation.
 
-Public Relation Executive Goinnovior Limited
+## Public Relation Executive Goinnovior Limited
+
 •	Collaborated with external PR firms, as well as internal sales and marketing managers, to determine branding, product positioning and media messages.
 •	Wrote press materials and delivered presentations to media representatives.
 •	Raised brand awareness through consistent marketing efforts and product campaign launches.
 •	Aligned projects and daily activities with company vision, strategies and tactics.
 •	Monitored marketing content for quality, accuracy and impact.
 •	Worked with marketing department on branding strategies.
-Jr. Business Development
+
+ ## Jr. Business Development
 Soft Skills:
+
 •	Leadership and team management, crucial for guiding and motivating your team towards achieving collective business objectives.
 •	Exceptional communication and interpersonal skills, enabling effective relationship-building with clients and stakeholders.
 •	Strategic thinking and problem-solving abilities, essential for devising innovative business development strategies and overcoming challenges.
 •	Negotiation and persuasion skills, critical for closing successful business deals and securing favorable terms for the company.
 •	Adaptability and resilience, allowing you to navigate through dynamic business environments and evolving market conditions.
+
 Hard Skills:
+
 •	Market research and analysis, facilitating the identification of new business opportunities and potential areas for growth.
 •	Proficiency in CRM software, enabling effective management of client relationships and the tracking of business development activities.
 •	Collaborated with SMEs, business users, and developers to translate business requirements into technical solutions.
@@ -49,7 +54,7 @@ Responsible for global delivery of rapidly growing managed business, including p
 •	Research and Development (R&D)
 •	Human Resources (HR) and Talent Management.
 
-Core Business Hard Skills
+## Core Business Hard Skills
 
 •	Strategic Planning & Execution
 •	CRM Tools (Salesforce, HubSpot, Zoho CRM)
