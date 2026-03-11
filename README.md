@@ -1,7 +1,6 @@
 # Hello:wave: 
 ### I am Sakibur Rahman
-
-![Profile Photo]("C:\Users\DCL\Desktop\Cover Letter\Sakib Cover PHOTO.jpg")
+![Profile Photo](https://raw.githubusercontent.com/username/repository/main/profile.jpg)
 ## MY Portfolio: http://127.0.0.1:5500/index.html
 
 Analytical Business Development professional with 2 years of experience as a Junior Business Developer. Skilled in requirement gathering, process mapping, and project management from concept to completion. Proven ability to build and maintain strong client relationships, drive sales, and close deals. Expertise in business development, marketing, and public relations, with an entrepreneurial mindset and solution-oriented approach. A self-directed, consultative team player with a strong focus on achieving high personal and professional goals.
