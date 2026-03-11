@@ -3,129 +3,77 @@
 
 [![Profile Photo]("C:\Users\DCL\Desktop\Cover Letter\Sakib Cover PHOTO.jpg")](https://yourwebsite.com)
 
-#### Build and operate cyber security programs to protect customers and enterprises. Highly skilled and dedicated System Analyst bringing 6 Months of professional experience seeking a job opportunity that offers growth opportunities to apply leadership,communication, and problem-solving skills combined with in-depth knowledge of analyzing and testing various business systems.
+Analytical Business Development professional with 2 years of experience as a Junior Business Developer. Skilled in requirement gathering, process mapping, and project management from concept to completion. Proven ability to build and maintain strong client relationships, drive sales, and close deals. Expertise in business development, marketing, and public relations, with an entrepreneurial mindset and solution-oriented approach. A self-directed, consultative team player with a strong focus on achieving high personal and professional goals.
 
-:email: sakibur15-12717@diu.edu.bd
-:phone: +8801796615965
+WORK EXPERIENCE
 
-## Skills:computer:
-### Hard Skills
-* Ethical Hacking Tools
-* Problem Solving(linux),Red Hat Linux,Windows Server,Active.
-* DevSecOps &Secure Software Developmenmt
-* Network Engineering, Cyber Security Frameworks
-* Cloud & Endpoint Security.
-* Firewalls
-* Network Security
-* Lan & Wan
-* Monitoring
-* Project Management
-* Risk Analysis
-* Malware Analysis
-### Soft Skills
-* Interpersonal Skills
-* Collaboration
-* Communication
-* Troubleshooting
-* Perceptiveness
-* Critical Thinking
+Proven Business Development Developer  with experience delivering + portfolios, building and leading customer-facing business services, and corporate Goinnovior Limited  & 3s Sourcing.
 
-### Education
-#### Bsc in Computer Science & Engineering(CSE)
-##### Daffodil International University
-##### CGPA: 3.30
+•	Directed marketing plans for clients, proactively servicing needs, maintaining satisfaction and consistently achieving profit goals.
+•	Functioned as Session Project Manager, overseeing individual PMDC sessions to ensure project goals were met.
+•	Worked with marketing teams to create, deploy and optimize effective campaigns for Corporate clients.
+•	Identified target audiences and devised campaigns to match target demographics and optimize results.
+•	Leverage product presentation to create powerful stories that drive productivity and profitability
+•	Conducted distributor sales meetings to share local and national updates, introduce new products, provide sales and volumes updates to ensure proper execution at all store levels.
+•	Developed functional specification documents to guide project design, development, and implementation.
 
-## Profile
-#### Proven cyber security executive with experience delivering + portfolios, building and leading customer-facing security services, and corporate InfoSec
-* Commands advanced experiential knowledge on security threats and response
-* Advises executive customers of security threat and operational trends in quarterly briefings.
-* Compelling presenter with credibility to engage customers and win business.
-* Published author, representing rich cyber security experience in books, papers, and executive briefings.
-#### Specialties
-* Incident response, detection, and investigations
-* Security operations
-* Cyber threat intelligence
-* Application, network, and system security
-* Designing, deploying and securing web applications
+Public Relation Executive Goinnovior Limited
+•	Collaborated with external PR firms, as well as internal sales and marketing managers, to determine branding, product positioning and media messages.
+•	Wrote press materials and delivered presentations to media representatives.
+•	Raised brand awareness through consistent marketing efforts and product campaign launches.
+•	Aligned projects and daily activities with company vision, strategies and tactics.
+•	Monitored marketing content for quality, accuracy and impact.
+•	Worked with marketing department on branding strategies.
+Jr. Business Development
+Soft Skills:
+•	Leadership and team management, crucial for guiding and motivating your team towards achieving collective business objectives.
+•	Exceptional communication and interpersonal skills, enabling effective relationship-building with clients and stakeholders.
+•	Strategic thinking and problem-solving abilities, essential for devising innovative business development strategies and overcoming challenges.
+•	Negotiation and persuasion skills, critical for closing successful business deals and securing favorable terms for the company.
+•	Adaptability and resilience, allowing you to navigate through dynamic business environments and evolving market conditions.
+Hard Skills:
+•	Market research and analysis, facilitating the identification of new business opportunities and potential areas for growth.
+•	Proficiency in CRM software, enabling effective management of client relationships and the tracking of business development activities.
+•	Collaborated with SMEs, business users, and developers to translate business requirements into technical solutions.
+•	Financial analysis and forecasting, providing insights into the financial implications of business development initiatives and strategies.
+•	Strategic planning and implementation, essential for translating business goals into actionable plans that drive growth and profitability.
+•	Business acumen and industry knowledge, essential for understanding market dynamics and making informed business decisions.
+Business Expertise Area Services
+ 	 
+Responsible for global delivery of rapidly growing managed business, including people work to make and sell products or services advanced. 
 
-## Work experience
-#### Cyber Security Services
-Responsible for global delivery of rapidly growing managed security portfolio, including advanced cyber threat detection and security device management.
-* Delivers expert security device management including monitoring, planned changes, patch management, and architectural growth.
-* Conducted security assessments and vulnerability scans.
-* Implemented and maintained robust security measures (firewalls, IDS, endpoint protection).
-* Responded to and investigated security incidents.
-* Conducted security awareness training for employees.
-* Managed SIEM systems and monitored network for threats.
-* Collaborated with external vendors for penetration testing.
-* Stayed updated on cybersecurity trends and emerging threats.
-* Contributed to incident response protocols.
+•	Business Model Development (ERP,SDLC,UAT,CRM,BRD,SRS,IT & Payroll)
+•	Growth Strategy Planning & Digital Marketing
+•	Project Management
+•	Operations and Supply Chain Management.
+•	Research and Development (R&D)
+•	Human Resources (HR) and Talent Management.
 
-## Work experience
-#### Cyber Security Services
-#### Responsible for global delivery of rapidly growing managed security portfolio, including advanced cyber threat detection and security device management.
+Core Business Hard Skills
 
-* Delivers expert security device management including monitoring, planned changes, patch management, and architectural growth.
-* Conducted security assessments and vulnerability scans.
-* Implemented and maintained robust security measures (firewalls, IDS, endpoint protection).
-* Responded to and investigated security incidents.
-* Conducted security awareness training for employees.
-* Managed SIEM systems and monitored network for threats.
-* Collaborated with external vendors for penetration testing.
-* Stayed updated on cybersecurity trends and emerging threats.
-* Contributed to incident response protocols
-#### Network Security Services
-* Firewall Configuration and Management: Implementing and maintaining firewalls to control incoming and outgoing network traffic, preventing unauthorized access and protecting against threats.
-* Virtual Private Network (VPN) Setup: Establishing secure and encrypted connections for remote users to access the organization's network and resources securely.
-* Network Segmentation: Dividing the network into separate segments to contain potential breaches and limit the impact of security incidents.
-* Network Monitoring and Analysis: Utilizing tools and technologies to continuously monitor network traffic, identifying anomalies and potential security breaches.
-* Security Auditing and Assessment: Conducting regular audits and assessments to evaluate the network's security posture, identifying weaknesses and recommending improvements.
+•	Strategic Planning & Execution
+•	CRM Tools (Salesforce, HubSpot, Zoho CRM)
+•	Project Coordination & Workflow Management
+•	KPI Tracking & Performance Reporting
+•	Software Development Life Cycle (SDLC) & Agile Methodologies
+•	Business Process Mapping & Optimization
+•	Financial Forecasting & Budgeting
+•	Market Research & Competitive Analysis
+•	Sales & Lead Generation
+•	Negotiation & Contract Management
+•	Data Analysis & Business Intelligence
+•	Proposal Writing & Digital Marketing
 
-#### CCNA
-Built and led global engineering staff of 5 security architects and engineers; delivering innovative solutions against growing threats, including APT.
-* Configured and maintained network devices, including routers and switches.
-* Troubleshot network connectivity issues and resolved them promptly.
-* Implemented security measures to protect the network from unauthorized access.
-* Monitored network performance and optimized configurations for improved efficiency.
-* Collaborated with the IT team to design and deploy network upgrades.
+International Certifications
 
-#### Linux System Administration
-Information Security Investigations Executive
-* Implemented all the system designs.
-* Designed and implemented, monitoring, configuration management, and reporting functions for a hands-off environment.
-* Responsible for setting-up accounts and workstations at the company.
-* Nurtured dependable IT infrastructure and networking that’s always up and running.
-* Worked flexibly and was able to adapt to a rapidly changing environment.
-* Managed projects of varying lengths independently with a positive and self-motivated mind.
-* Vest gated, mitigated, and provided subject-matter expertise for dozens of security incidents.
+Kaspersky and Sophos Certifications
 
-#### Security IT InfoSec
-##### Security Architect Provide security direction for Cisco projects. Specializing in web security, consult with IT project teams to provide secure architecture for large projects. Write policy and standards documents to address secure programming and deployment.
-* Developed web auditing/remediation team to address web security vulnerabilities.
-* Served as architect for web services security Developed database security strategy
-* Delivered a series of "Nerd Lunch" presentations to security staff on database, web services, and web security
-* Authored for O'Reilly Media - SQL Injection Defenses
+Education 
+ 
+Bsc in Computer Science & Engineering (CSE) 
+Daffodil International University 
+CGPA: 3.40
+Approval of Trainee Cyber Security Specialist (Skylark Soft.Ltd); 4Months.
+System Administration Engineer (Goinnovior Limited); 1.5 years.
+3s Sourcing Ltd (IT Officer); 1 Years.
 
-### Computer Proficiency
-#### Operating system: 
-* Linux..
-* Kali Linux
-* Red Hat Linux 
-* Ubuntu
-* Windows Sever Active Directory
-
-### Special Achievement
-* Goinnovior Technology Offer Latter.(internship)
-* Website Development Contest with KKHudeghor Certificate.
-* Day Long Carrier Certificate.
-
-### Certifications
-#### Approval of Trainee Cyber Security Specialist (Skylark Soft.Ltd) 
-#### Specilization.Approval of Trainee Network Engineer (Goinnovior Technology)
-
-### Reference
-#### Mst.Tapasy Rabeya
-##### Position : Senior Lecturer
-##### Daffodil International University
-##### Contact : 0176615965
-##### Email: tapasyrabeya.cse@diu.edu.bd
